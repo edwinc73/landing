@@ -1,0 +1,26 @@
+footer{
+  background-color: darkslategray;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgba(211, 211, 211, 0.6);
+}
+
+footer .links{
+  text-align: center;
+  justify-content: center;
+}
+
+footer a {
+  font-size: 35px;
+  color: white;
+}
+
+footer p i{
+  color: red;
+}
+
+footer p{
+  margin-top: 15px;
+}
